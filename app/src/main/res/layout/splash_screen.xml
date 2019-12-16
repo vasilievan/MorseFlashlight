@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/creator"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
+        android:autoLink="email">
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/link"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif"
+        android:textAlignment="center"
+        android:autoLink="email">
+    </TextView>
+
+    <ImageView
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/content_description"
+        android:src="@drawable/samuel_morse"
+        >
+    </ImageView>
+
+</LinearLayout>

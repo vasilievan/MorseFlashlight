@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Morse Flashlight</string>
+    <string name="textOnTheSplashScreen">SplashScreen</string>
+    <string name="helper">Print your text here, use only letters, numbers, _ .,?\'!/()\\&amp;:;=+"$@-</string>
+    <string name="ct">Convert text</string>
+    <string name="reminder">Converted string will appear here</string>
+    <string name="content_description">esq. Samuel Morse, Morse code inventor</string>
+    <string name="creator">Developed and created by Aleksey Vasilev</string>
+    <string name="link">st.cardinalis@gmail.com</string>
+    <string name="beginning">Dot duration: 50 ms</string>
+</resources>
